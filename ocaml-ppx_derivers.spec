@@ -43,7 +43,7 @@ używających biblioteki ppx_derivers.
 
 %package devel
 Summary:	Shared deriving plugin registry for OCaml - development part
-Summary(pl.UTF-8):	Współdzielony rejestr wtyczek wywodzących dla OCamla - cześć programistyczna
+Summary(pl.UTF-8):	Współdzielony rejestr wtyczek wywodzących dla OCamla - część programistyczna
 Group:		Development/Libraries
 Requires:	%{name} = %{version}-%{release}
 %requires_eq	ocaml
